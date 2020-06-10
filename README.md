@@ -2,4 +2,4 @@
 Drinking game app: Ring of fire
 
 Download the latest apk on your android mobile by clicking [here](https://raw.githubusercontent.com/tillderoquefeuil/ring-of-fire-apk/master/latest/rof_latest.apk)!
-[current version : 1.0.9]
+[current version : 1.1.0]
